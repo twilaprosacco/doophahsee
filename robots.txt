@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aewahzaiya.dontkillmyapp.com/sitemap.xml
